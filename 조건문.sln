@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "조건문", "조건문\조건문.csproj", "{0BAB01DF-9BF4-44CE-8B50-466C0C3EB941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BAB01DF-9BF4-44CE-8B50-466C0C3EB941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAB01DF-9BF4-44CE-8B50-466C0C3EB941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAB01DF-9BF4-44CE-8B50-466C0C3EB941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAB01DF-9BF4-44CE-8B50-466C0C3EB941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E40F41B-F4D6-4FA1-A7BE-40A25F5AC88F}
+	EndGlobalSection
+EndGlobal
