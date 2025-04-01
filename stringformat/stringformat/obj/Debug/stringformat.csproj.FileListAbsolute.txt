@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\source\repos\stringformat\stringformat\bin\Debug\stringformat.exe.config
+C:\Users\메카트로닉스\source\repos\stringformat\stringformat\bin\Debug\stringformat.exe
+C:\Users\메카트로닉스\source\repos\stringformat\stringformat\bin\Debug\stringformat.pdb
+C:\Users\메카트로닉스\source\repos\stringformat\stringformat\obj\Debug\stringformat.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\stringformat\stringformat\obj\Debug\stringformat.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\stringformat\stringformat\obj\Debug\stringformat.exe
+C:\Users\메카트로닉스\source\repos\stringformat\stringformat\obj\Debug\stringformat.pdb

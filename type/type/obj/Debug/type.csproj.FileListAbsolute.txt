@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\source\repos\type\type\bin\Debug\type.exe.config
+C:\Users\메카트로닉스\source\repos\type\type\bin\Debug\type.exe
+C:\Users\메카트로닉스\source\repos\type\type\bin\Debug\type.pdb
+C:\Users\메카트로닉스\source\repos\type\type\obj\Debug\type.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\type\type\obj\Debug\type.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\type\type\obj\Debug\type.exe
+C:\Users\메카트로닉스\source\repos\type\type\obj\Debug\type.pdb
