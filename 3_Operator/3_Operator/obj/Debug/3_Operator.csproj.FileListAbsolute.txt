@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\source\repos\3_Operator\3_Operator\bin\Debug\3_Operator.exe.config
+C:\Users\메카트로닉스\source\repos\3_Operator\3_Operator\bin\Debug\3_Operator.exe
+C:\Users\메카트로닉스\source\repos\3_Operator\3_Operator\bin\Debug\3_Operator.pdb
+C:\Users\메카트로닉스\source\repos\3_Operator\3_Operator\obj\Debug\3_Operator.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\3_Operator\3_Operator\obj\Debug\3_Operator.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\3_Operator\3_Operator\obj\Debug\3_Operator.exe
+C:\Users\메카트로닉스\source\repos\3_Operator\3_Operator\obj\Debug\3_Operator.pdb

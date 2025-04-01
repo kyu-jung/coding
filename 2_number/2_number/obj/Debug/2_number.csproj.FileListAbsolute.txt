@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\source\repos\2_number\2_number\bin\Debug\2_number.exe.config
+C:\Users\메카트로닉스\source\repos\2_number\2_number\bin\Debug\2_number.exe
+C:\Users\메카트로닉스\source\repos\2_number\2_number\bin\Debug\2_number.pdb
+C:\Users\메카트로닉스\source\repos\2_number\2_number\obj\Debug\2_number.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\2_number\2_number\obj\Debug\2_number.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\2_number\2_number\obj\Debug\2_number.exe
+C:\Users\메카트로닉스\source\repos\2_number\2_number\obj\Debug\2_number.pdb

@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\source\repos\자료형 심화2\자료형 심화2\bin\Debug\자료형 심화2.exe.config
+C:\Users\메카트로닉스\source\repos\자료형 심화2\자료형 심화2\bin\Debug\자료형 심화2.exe
+C:\Users\메카트로닉스\source\repos\자료형 심화2\자료형 심화2\bin\Debug\자료형 심화2.pdb
+C:\Users\메카트로닉스\source\repos\자료형 심화2\자료형 심화2\obj\Debug\자료형 심화2.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\자료형 심화2\자료형 심화2\obj\Debug\자료형 심화2.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\자료형 심화2\자료형 심화2\obj\Debug\자료형 심화2.exe
+C:\Users\메카트로닉스\source\repos\자료형 심화2\자료형 심화2\obj\Debug\자료형 심화2.pdb

@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\source\repos\2_Operator\2_Operator\bin\Debug\2_Operator.exe.config
+C:\Users\메카트로닉스\source\repos\2_Operator\2_Operator\bin\Debug\2_Operator.exe
+C:\Users\메카트로닉스\source\repos\2_Operator\2_Operator\bin\Debug\2_Operator.pdb
+C:\Users\메카트로닉스\source\repos\2_Operator\2_Operator\obj\Debug\2_Operator.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\2_Operator\2_Operator\obj\Debug\2_Operator.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\2_Operator\2_Operator\obj\Debug\2_Operator.exe
+C:\Users\메카트로닉스\source\repos\2_Operator\2_Operator\obj\Debug\2_Operator.pdb
