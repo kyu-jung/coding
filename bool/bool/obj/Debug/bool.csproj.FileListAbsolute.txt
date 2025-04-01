@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\source\repos\bool\bool\bin\Debug\@bool.exe.config
+C:\Users\메카트로닉스\source\repos\bool\bool\bin\Debug\@bool.exe
+C:\Users\메카트로닉스\source\repos\bool\bool\bin\Debug\@bool.pdb
+C:\Users\메카트로닉스\source\repos\bool\bool\obj\Debug\bool.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\bool\bool\obj\Debug\bool.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\bool\bool\obj\Debug\@bool.exe
+C:\Users\메카트로닉스\source\repos\bool\bool\obj\Debug\@bool.pdb
