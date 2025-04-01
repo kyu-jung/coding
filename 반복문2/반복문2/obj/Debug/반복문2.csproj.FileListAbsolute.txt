@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\source\repos\반복문2\반복문2\bin\Debug\반복문2.exe.config
+C:\Users\메카트로닉스\source\repos\반복문2\반복문2\bin\Debug\반복문2.exe
+C:\Users\메카트로닉스\source\repos\반복문2\반복문2\bin\Debug\반복문2.pdb
+C:\Users\메카트로닉스\source\repos\반복문2\반복문2\obj\Debug\반복문2.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\반복문2\반복문2\obj\Debug\반복문2.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\반복문2\반복문2\obj\Debug\반복문2.exe
+C:\Users\메카트로닉스\source\repos\반복문2\반복문2\obj\Debug\반복문2.pdb

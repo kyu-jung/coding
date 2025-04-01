@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\source\repos\1_method\1_method\bin\Debug\1_method.exe.config
+C:\Users\메카트로닉스\source\repos\1_method\1_method\bin\Debug\1_method.exe
+C:\Users\메카트로닉스\source\repos\1_method\1_method\bin\Debug\1_method.pdb
+C:\Users\메카트로닉스\source\repos\1_method\1_method\obj\Debug\1_method.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\1_method\1_method\obj\Debug\1_method.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\1_method\1_method\obj\Debug\1_method.exe
+C:\Users\메카트로닉스\source\repos\1_method\1_method\obj\Debug\1_method.pdb
