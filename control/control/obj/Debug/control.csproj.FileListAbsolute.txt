@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\source\repos\control\control\bin\Debug\control.exe.config
+C:\Users\메카트로닉스\source\repos\control\control\bin\Debug\control.exe
+C:\Users\메카트로닉스\source\repos\control\control\bin\Debug\control.pdb
+C:\Users\메카트로닉스\source\repos\control\control\obj\Debug\control.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\control\control\obj\Debug\control.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\control\control\obj\Debug\control.exe
+C:\Users\메카트로닉스\source\repos\control\control\obj\Debug\control.pdb

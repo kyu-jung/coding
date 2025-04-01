@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\source\repos\char_str\char_str\obj\Debug\char_str.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\char_str\char_str\obj\Debug\char_str.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\char_str\char_str\bin\Debug\char_str.exe.config
+C:\Users\메카트로닉스\source\repos\char_str\char_str\bin\Debug\char_str.exe
+C:\Users\메카트로닉스\source\repos\char_str\char_str\bin\Debug\char_str.pdb
+C:\Users\메카트로닉스\source\repos\char_str\char_str\obj\Debug\char_str.exe
+C:\Users\메카트로닉스\source\repos\char_str\char_str\obj\Debug\char_str.pdb
