@@ -30,8 +30,6 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.파일ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.편집ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.보기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.새탭ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.새창ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.열기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -43,6 +41,8 @@
             this.탭닫기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.창닫기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.종료ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.편집ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.보기ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -80,31 +80,18 @@
             this.파일ToolStripMenuItem.Size = new System.Drawing.Size(68, 32);
             this.파일ToolStripMenuItem.Text = "파일";
             // 
-            // 편집ToolStripMenuItem
-            // 
-            this.편집ToolStripMenuItem.Font = new System.Drawing.Font("맑은 고딕", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.편집ToolStripMenuItem.Name = "편집ToolStripMenuItem";
-            this.편집ToolStripMenuItem.Size = new System.Drawing.Size(68, 32);
-            this.편집ToolStripMenuItem.Text = "편집";
-            // 
-            // 보기ToolStripMenuItem
-            // 
-            this.보기ToolStripMenuItem.Font = new System.Drawing.Font("맑은 고딕", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.보기ToolStripMenuItem.Name = "보기ToolStripMenuItem";
-            this.보기ToolStripMenuItem.Size = new System.Drawing.Size(68, 32);
-            this.보기ToolStripMenuItem.Text = "보기";
-            // 
             // 새탭ToolStripMenuItem
             // 
             this.새탭ToolStripMenuItem.Name = "새탭ToolStripMenuItem";
-            this.새탭ToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.새탭ToolStripMenuItem.Size = new System.Drawing.Size(288, 36);
             this.새탭ToolStripMenuItem.Text = "새 탭";
             // 
             // 새창ToolStripMenuItem
             // 
             this.새창ToolStripMenuItem.Name = "새창ToolStripMenuItem";
-            this.새창ToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.새창ToolStripMenuItem.Size = new System.Drawing.Size(288, 36);
             this.새창ToolStripMenuItem.Text = "새 창";
+            this.새창ToolStripMenuItem.Click += new System.EventHandler(this.새창ToolStripMenuItem_Click);
             // 
             // 열기ToolStripMenuItem
             // 
@@ -123,44 +110,60 @@
             // 다른이름으로저장ToolStripMenuItem
             // 
             this.다른이름으로저장ToolStripMenuItem.Name = "다른이름으로저장ToolStripMenuItem";
-            this.다른이름으로저장ToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.다른이름으로저장ToolStripMenuItem.Size = new System.Drawing.Size(288, 36);
             this.다른이름으로저장ToolStripMenuItem.Text = "다른 이름으로 저장";
             // 
             // 모두저장ToolStripMenuItem
             // 
             this.모두저장ToolStripMenuItem.Name = "모두저장ToolStripMenuItem";
-            this.모두저장ToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.모두저장ToolStripMenuItem.Size = new System.Drawing.Size(288, 36);
             this.모두저장ToolStripMenuItem.Text = "모두 저장";
             // 
             // 페이지설정ToolStripMenuItem
             // 
             this.페이지설정ToolStripMenuItem.Name = "페이지설정ToolStripMenuItem";
-            this.페이지설정ToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.페이지설정ToolStripMenuItem.Size = new System.Drawing.Size(288, 36);
             this.페이지설정ToolStripMenuItem.Text = "페이지 설정";
             // 
             // 인쇄ToolStripMenuItem
             // 
             this.인쇄ToolStripMenuItem.Name = "인쇄ToolStripMenuItem";
-            this.인쇄ToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.인쇄ToolStripMenuItem.Size = new System.Drawing.Size(288, 36);
             this.인쇄ToolStripMenuItem.Text = "인쇄";
+            this.인쇄ToolStripMenuItem.Click += new System.EventHandler(this.인쇄ToolStripMenuItem_Click);
             // 
             // 탭닫기ToolStripMenuItem
             // 
             this.탭닫기ToolStripMenuItem.Name = "탭닫기ToolStripMenuItem";
-            this.탭닫기ToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.탭닫기ToolStripMenuItem.Size = new System.Drawing.Size(288, 36);
             this.탭닫기ToolStripMenuItem.Text = "탭 닫기";
             // 
             // 창닫기ToolStripMenuItem
             // 
             this.창닫기ToolStripMenuItem.Name = "창닫기ToolStripMenuItem";
-            this.창닫기ToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.창닫기ToolStripMenuItem.Size = new System.Drawing.Size(288, 36);
             this.창닫기ToolStripMenuItem.Text = "창 닫기";
             // 
             // 종료ToolStripMenuItem
             // 
             this.종료ToolStripMenuItem.Name = "종료ToolStripMenuItem";
-            this.종료ToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.종료ToolStripMenuItem.Size = new System.Drawing.Size(288, 36);
             this.종료ToolStripMenuItem.Text = "종료";
+            this.종료ToolStripMenuItem.Click += new System.EventHandler(this.종료ToolStripMenuItem_Click);
+            // 
+            // 편집ToolStripMenuItem
+            // 
+            this.편집ToolStripMenuItem.Font = new System.Drawing.Font("맑은 고딕", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.편집ToolStripMenuItem.Name = "편집ToolStripMenuItem";
+            this.편집ToolStripMenuItem.Size = new System.Drawing.Size(68, 32);
+            this.편집ToolStripMenuItem.Text = "편집";
+            // 
+            // 보기ToolStripMenuItem
+            // 
+            this.보기ToolStripMenuItem.Font = new System.Drawing.Font("맑은 고딕", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.보기ToolStripMenuItem.Name = "보기ToolStripMenuItem";
+            this.보기ToolStripMenuItem.Size = new System.Drawing.Size(68, 32);
+            this.보기ToolStripMenuItem.Text = "보기";
             // 
             // textBox1
             // 
