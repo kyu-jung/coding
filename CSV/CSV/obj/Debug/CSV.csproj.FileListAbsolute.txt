@@ -1,0 +1,11 @@
+C:\Users\메카트로닉스\source\repos\CSV\CSV\bin\Debug\CSV.exe.config
+C:\Users\메카트로닉스\source\repos\CSV\CSV\bin\Debug\CSV.exe
+C:\Users\메카트로닉스\source\repos\CSV\CSV\bin\Debug\CSV.pdb
+C:\Users\메카트로닉스\source\repos\CSV\CSV\obj\Debug\CSV.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\CSV\CSV\obj\Debug\CSV.Properties.Resources.resources
+C:\Users\메카트로닉스\source\repos\CSV\CSV\obj\Debug\CSV.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\source\repos\CSV\CSV\obj\Debug\CSV.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\CSV\CSV\obj\Debug\CSV.exe
+C:\Users\메카트로닉스\source\repos\CSV\CSV\obj\Debug\CSV.pdb
+C:\Users\메카트로닉스\source\repos\CSV\CSV\obj\Debug\CSV.CSVread.resources
+C:\Users\메카트로닉스\source\repos\CSV\CSV\obj\Debug\CSV.CSVwrite.resources
