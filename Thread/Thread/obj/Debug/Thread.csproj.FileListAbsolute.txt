@@ -1,0 +1,11 @@
+C:\Users\메카트로닉스\source\repos\Thread\Thread\bin\Debug\Thread.exe.config
+C:\Users\메카트로닉스\source\repos\Thread\Thread\bin\Debug\Thread.exe
+C:\Users\메카트로닉스\source\repos\Thread\Thread\bin\Debug\Thread.pdb
+C:\Users\메카트로닉스\source\repos\Thread\Thread\obj\Debug\Thread.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\source\repos\Thread\Thread\obj\Debug\Thread.Properties.Resources.resources
+C:\Users\메카트로닉스\source\repos\Thread\Thread\obj\Debug\Thread.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\source\repos\Thread\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\source\repos\Thread\Thread\obj\Debug\Thread.exe
+C:\Users\메카트로닉스\source\repos\Thread\Thread\obj\Debug\Thread.pdb
+C:\Users\메카트로닉스\source\repos\Thread\Thread\obj\Debug\ThreadApp.Form1.resources
+C:\Users\메카트로닉스\source\repos\Thread\Thread\obj\Debug\ThreadApp.Play.resources
